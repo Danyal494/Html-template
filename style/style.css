@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Hack;
+    src: url('../Font/Hack-Bold.ttf');
+}
+@font-face {
+    font-family: FX_LED;
+    src: url('../Font/digital-7.ttf');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+   box-sizing: border-box;
+}
+
